@@ -1,6 +1,6 @@
 # using-lstm-for-context-based-approach-of-sarcasm-detection-in-twitter
 
-This repository contains Jupiter notebooks, paper, and data.
+This repository contains Jupiter notebooks, paper, and dataset.
 If you use the dataset and this work as a reference in your paper, please cite us:
 
 @inproceedings{10.1145/3406601.3406624,
